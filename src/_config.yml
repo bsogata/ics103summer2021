@@ -1,11 +1,11 @@
-name: Morea CORE (Change me)
+name: ICS 103 Summer 2021
 markdown: kramdown
 kramdown:
   hard_wrap: false
   input: GFM
   syntax_highlighter: rouge
 mathjax: true
-baseurl: /core
+baseurl: /ics103summer2021
 exclude: [morea]
 morea_theme: spacelab
 morea_navbar_items:
