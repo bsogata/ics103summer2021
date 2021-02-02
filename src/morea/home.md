@@ -23,6 +23,6 @@ This course does not have any formal requirements; however, we will use concepts
 
 This course is composed of five [modules](./modules).  Each module contains the following:
 
-* One or more [learning outcomes]: the overall goals of the module
-* One or more [readings]: passive learning activities for you to study
-* One or more [experiences]: active learning activities for you to practice with
+* One or more [learning outcomes](./outcomes): the overall goals of the module
+* One or more [readings](./readings): passive learning activities for you to study
+* One or more [experiences](./experiences): active learning activities for you to practice with
